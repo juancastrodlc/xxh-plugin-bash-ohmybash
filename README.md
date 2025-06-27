@@ -14,7 +14,7 @@ xxh yourhost +s bash +if
 ```
 From any repo:
 ```
-xxh +I xxh-plugin-bash-ohmybash+git+https://github.com/xxh/xxh-plugin-bash-ohmybash
+xxh +I xxh-plugin-bash-ohmybash+git+https://github.com/juancastrodlc/xxh-plugin-bash-ohmybash
 ```    
 Connect:
 ```
